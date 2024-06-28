@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AvinashNit
+- 👋 Hi, I’m Avinash from Patna Bihar
 - 👀 I’m interested in 5G Technology using Machine learning and Artificial Intelligence
 - 🌱 I’m currently pursuing Btech from National Institue of Technology, Patna in Electronics and communication stream
 - I have appreciable knowledge of python,java,javascript,c++ and react with machine learning to some extent
