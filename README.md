@@ -27,8 +27,8 @@ I'm passionate about building scalable web applications and AI-powered solutions
 
 ### 📫 Connect with Me
 
-* GitHub: https://github.com/YOUR_USERNAME
-* LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+* GitHub: https://github.com/AvinashNit
+* LinkedIn: https://linkedin.com/in/avinashyadav0
 
 ---
 
